@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<!-- ===== NAVBAR ===== -->
+<header>
+    <nav>
+        <h2>MyBusiness</h2>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<!-- ===== SERVICES SECTION ===== -->
+<section class="services">
+    <h1>Our Services</h1>
+    <p>We provide professional digital solutions for your business.</p>
+
+    <div class="service-card">
+        <h3>Web Development</h3>
+        <p>Modern, responsive websites built with latest technologies.</p>
+    </div>
+
+    <div class="service-card">
+        <h3>UI/UX Design</h3>
+        <p>Clean and user-friendly design to improve user experience.</p>
+    </div>
+
+    <div class="service-card">
+        <h3>SEO Optimization</h3>
+        <p>Improve your website ranking and visibility online.</p>
+    </div>
+
+    <div class="service-card">
+        <h3>Consulting</h3>
+        <p>Professional advice to grow your digital presence.</p>
+    </div>
+
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+    <p>© 2026 MyBusiness. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
